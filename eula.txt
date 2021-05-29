@@ -3,7 +3,7 @@ End-User License Agreement ("Agreement")
 
 Last updated: May 29, 2021
 
-Please read this End-User License Agreement carefully before clicking the "I Agree" button, downloading or using KlonoLauncher.
+Please read this End-User License Agreement carefully before clicking the "I Agree" button, using KlonoLauncher.
 Interpretation and Definitions
 Interpretation
 
@@ -12,7 +12,7 @@ Definitions
 
 For the purposes of this End-User License Agreement:
 
-    Agreement means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application. This Agreement has been created with the help of the EULA Generator.
+    Agreement means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application.
 
     Application means the software program provided by the Company downloaded by You to a Device, named KlonoLauncher
 
@@ -30,7 +30,7 @@ For the purposes of this End-User License Agreement:
 
 Acknowledgment
 
-By clicking the "I Agree" button, downloading or using the Application, You are agreeing to be bound by the terms and conditions of this Agreement. If You do not agree to the terms of this Agreement, do not click on the "I Agree" button, do not download or do not use the Application.
+By clicking the "I Agree" button, using the Application, You are agreeing to be bound by the terms and conditions of this Agreement. If You do not agree to the terms of this Agreement, do not click on the "I Agree" button, do not use the Application.
 
 This Agreement is a legal document between You and the Company and it governs your use of the Application made available to You by the Company.
 
